@@ -28,4 +28,4 @@ Este projeto é um assistente de personal trainer automatizado que gera planos d
 
 ## Licença
 
-MIT License
+Renann Valenzuela
